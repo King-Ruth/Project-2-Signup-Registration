@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FinalAnswer</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="retype_password">Retype Password</string>
+    <string name="signup">Sign Up</string>
+    <string name="sign_in_page">Sign In Page</string>
+    <string name="sign_in">Sign In</string>
+    <string name="cozy"><![CDATA[Get Cozy <3]]></string>
+</resources>
